@@ -1,0 +1,92 @@
+/* body{
+    background: url("./images/w4.jpg");
+    background-size:auto;
+   
+} */
+.headder{
+    background: linear-gradient(to top right,rgba(157, 152, 215, 0.192),rgb(45, 5, 129));
+    margin:auto bold pink;
+    padding:2px;
+    height:100px;
+    width:auto;
+    opacity:1;
+    background-image: url("./images/abstract-neutral-paint-background-design.jpg");
+    background-size: cover;
+}
+#heading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(179, 19, 19);
+    font-size: 80px;
+    padding: 1px;
+    border-radius: 5px;
+    width:600px;
+    height:90px;
+}
+.buttons{
+    font-size: 25px;
+    color:black;
+    padding:1px;
+    border: 2px solid;
+    border-radius: 10px;
+    width:150px;
+    margin-left: 30px;
+}
+a{
+    color:rgb(141, 7, 18);
+}
+.content{
+    color:bisque;
+    padding-top:0px;
+    margin: auto;
+    margin-left: 15px;
+}
+.articles{
+    background-color: white;
+    border: 2px indigo solid;
+    color:black;
+    height: 350px;
+    width: 70%;
+    text-align: center;
+    font-size: 20px;
+    opacity: 0.95;
+    float: left;
+    padding:auto;
+    padding-top: 0px;
+    margin: 10px;
+}
+.footer{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    opacity:0.95;
+    margin: auto;
+    background-color: rgb(158, 212, 241);
+    color: black;
+}
+.side-top{
+    font-size: 24px;
+    border: 2px indigo solid;
+    background-color: white;
+    color:black;
+    height: 300px;
+    width:20%;
+    opacity: 0.95;
+    float:left;
+    margin: 20px;
+    padding:10px;
+}
+.shift{
+    margin: auto;
+    font-size:larger;
+    border:2px solid indigo;
+    background-color: rgb(252, 249, 249);
+    color:black;
+    opacity: 0.7;
+    text-align: center;
+    margin-right: 25%;
+    margin-left: 15%;
+}
+.content-home{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:rgb(109, 149, 202)
+}
